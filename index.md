@@ -1,6 +1,6 @@
 # Sesh Privacy Policy
 
-**Last updated: October 8, 2026**
+**Last updated: October 11, 2026**
 
 Sesh ("the app") is a practice journal for iPhone, operated by Eugene Lee
 ("we"). This page explains what the app does with your data. The short
@@ -76,6 +76,15 @@ see it.
 Sesh can show local reminders about your own clips. These are scheduled on
 your device. There is no push server and no notification data leaves your
 phone.
+
+## Feedback
+
+If you use **Feedback** in the app, the message you type, the email
+address you optionally enter, and the app version, iOS version, and device
+model are sent to Formspree, a form service hosted in the United States,
+which forwards them to us by email. Nothing else is attached — no clips,
+notes, tags, or identifiers. We use it only to read and answer your
+feedback. If you don't use Feedback, nothing is sent.
 
 ## Children
 
