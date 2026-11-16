@@ -1,15 +1,15 @@
 # Sesh Privacy Policy
 
-**Last updated: October 11, 2026**
+**Last updated: November 15, 2026**
 
-Sesh ("the app") is a practice journal for iPhone, operated by Eugene Lee
+Sesh ("the app") is a practice journal for iPhone and iPad, operated by Eugene Lee
 ("we"). This page explains what the app does with your data. The short
 version: your videos, notes, tags, and edits stay on your device. We never
 see them.
 
 ## What stays on your device
 
-Everything you put into Sesh is stored only on your iPhone:
+Everything you put into Sesh is stored only on your device:
 
 - Videos and photos you import. Sesh stores a reference to the item in your
   Photos library and never copies or uploads it. (The sample clips that ship
@@ -36,33 +36,10 @@ transfer.
 
 ## Usage analytics
 
-To understand which features are used, Sesh sends anonymous usage events to
-PostHog, an analytics service, hosted in the United States. What is sent:
-
-- The name of an action (for example "clip imported", "comparison opened").
-- Coarse, bucketed properties (for example "1–5 clips", "under 30 seconds",
-  a tag category like "Power", a link domain bucket like "youtube").
-- Device model, iOS version, app version, language, time zone, screen size,
-  and whether you're on Wi-Fi or cellular.
-- A random identifier generated on your device so repeat events from the
-  same install can be counted. It is not tied to your name, email, Apple ID,
-  or advertising identifier.
-
-What is never sent: your videos, photos, thumbnails, tag names you typed,
-note text, filenames, Photos identifiers, your precise location, or your
-contacts. Like any internet request, PostHog's servers receive your IP
-address to deliver the data; we have IP-based location lookup turned off and
-do not store IP addresses.
-We do not use session recording, crash reporting, or advertising tracking.
-We do not sell analytics data, and we do not share it with anyone other than
-PostHog, which stores and processes it on our behalf.
-
-**Retention.** Analytics events are kept for one year and then deleted.
-
-**Your choices.** There is currently no in-app switch to turn analytics off.
-Because events are anonymous, we have no way to find or delete the events
-from a particular person; if you would rather send nothing, the only option
-today is not to use the app. We'll note it here if that changes.
+Sesh sends anonymous usage analytics to PostHog to help improve the app:
+which features are used, plus basic device info like model and iOS version.
+It never includes your videos, photos, notes, tag names, or filenames. We
+don't sell it or use it for advertising.
 
 ## Link previews
 
